@@ -1,26 +1,26 @@
 DAY,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE_NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE__NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE_NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL,COURSE_NAME,COURSE_CODE_SECTION_&_SHIFT,FACULTY_INITIALS,HALL
-WEDNESDAY,MAJOR THEORY,COMMA(M),MM,57,MINOR THEORY,-,-,-,MULTI-DISCIPLINARY COURSE,MDC-110(M),IH,4,SKILL ENHANCEMENT COURSE,SEC-130-A(M),IBN,19,VALUE ADDED COURSE,VAC-140-C(M),-,9,ABILITY ENHANCEMENT COURSE,AEC-120-A(M),-,9,MINOR THEORY,COMMI(D),SD,56,MAJOR THEORY,COMMA(D),SD,54,MULTI-DISCIPLINARY COURSE,MDC-110(D),IH,2,VALUE ADDED COURSE,VAC-140-C(D),-,9,ABILITY ENHANCEMENT COURSE,AEC-120-A(D),-,9,MAJOR THEORY,COMMA(A),AS,54
-WEDNESDAY,-,ECOMA(M),GM,58,-,ECOMI(M),GM,58,-,MDC-111(M),-,30,-,SEC-131-A(M),CK/JLM,2,-,VAC-140-D(M),-,27,-,AEC-120-B(M),-,65,-,-,-,-,-,-,-,-,-,MDC-111(D),-,32,-,VAC-140-D(D),-,33,-,AEC-120-B(D),-,7,-,-,-,-
-WEDNESDAY,-,EDUMA(M),DN,66,-,EDUMI(M),DN,66,-,MDC-112(M),LRS,65,-,SEC-132-A(M),ED-VE,65,-,-,-,-,-,AEC-120-C(M),-,57,-,BBAMI(D),AAA,71,-,BBAMA(D),AAA,60,-,MDC-112(D),LRS,33,-,-,-,-,-,AEC-120-C(D),-,35,-,-,-,-
-WEDNESDAY,-,ENGMA(M),-,38,-,ENGMI(M),-,38,-,MDC-113(M),VD,32,-,SEC-133-A(M),-,32,-,-,-,-,-,-,-,-,-,BCHMI(D),HGL,3,-,BCHMA(D),VMW,10,-,MDC-113(D),VD,4,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,HISMA(M),SCL,36,-,HISMI(M),HAH,36,-,MDC-114(M),CK/JLM,37,-,SEC-134-A(M),FN-VE,3,-,-,-,-,-,AEC-123-A(M),JS,21,-,BITMI(D),-,5,-,BITMA(D),-,11,-,MDC-114(D),CK/JLM,6,-,-,-,-,-,AEC-123-A(D),JS,21,-,-,-,-
-WEDNESDAY,-,KHAMA(M),DS,43,-,KHAMI(M),BL,43,-,MDC-115(M),ZL,3,-,-,-,-,-,-,-,-,-,-,-,-,-,BOTMI(D),WL,67,-,BOTMA(D),WL,67,-,MDC-115(D),-,3,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,PHIMA(M),LK,42,-,PHIMI(M),LK,42,-,-,-,-,-,SEC-130-B(M),IBN,36,-,-,-,-,-,-,-,-,-,CHEMI(D),ORG,8,-,CHEMA(D),ORG,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,POLMA(M),SH,32,-,POLMI(M),SH,32,-,MDC-117(M),-,57,-,SEC-131-B(M),CK/JLM,6,-,-,-,-,-,AEC-124-A(M),DS,2,-,CSCMI(D),AD,MCA 1,-,CSCMA(D),FJJ,MCA 1,-,MDC-117(D),-,1,-,-,-,-,-,AEC-124-A(D),RW,2,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,MDC-118(M),-,36,-,SEC-132-B(M),NL-VE,57,-,-,-,-,-,AEC-124-B(M),BMK,6,-,FSCMI(D),SMK,104,-,FSCMA(D),SMK,104,-,MDC-118(D),-,19,-,-,-,-,-,AEC-124-B(D),TL,6,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,MDC-119(M),-,2,-,SEC-133-B(M),-,7,-,-,-,-,-,-,-,-,-,GELMI(D),TM,19,-,GELMA(D),TM,19,-,MDC-119(D),-,16,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,SEC-134-B(M),FJJ-VE,4,-,-,-,-,-,AEC-125-A(M),GZ,36,-,MTHMI(D),PB,7,-,MTHMA(D),PB,5,-,-,-,-,-,-,-,-,-,AEC-125-A(D),GZ,36,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,PHYMI(D),SS,6,-,PHYMA(D),SS,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,STAMI(D),SM,61,-,STAMA(D),BS,61,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,AEC-127-A(M),DK,38,-,ZOOMI(D),FAL,60,-,ZOOMA(D),DL,1,-,-,-,-,-,-,-,-,-,AEC-127-A(D),DK,38,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,ECOMI(D),BM,2,-,ECOMA(D),BM,71,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,EDUMI(D),DN,65,-,EDUMA(D),DN,66,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,ENGMI(D),-,32,-,ENGMA(D),-,37,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,HISMI(D),EL,36,-,HISMA(D),BSL,36,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,KHAMI(D),BMK,40,-,KHAMA(D),DB,40,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,PHIMI(D),MS,70,-,PHIMA(D),WN,70,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,POLMI(D),ED,53,-,POLMA(D),ED,59,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MUSMI(D),AS,42,-,MUSMA(D),AS,43,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MVPMI(D),TL,58,-,MVPMA(D),FS,58,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,METMI(D),GN/CK,64,-,METMA(D),GN/CK,44,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-WEDNESDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+MONDAY,MAJOR THEORY,COMMA(M),MM,57,MINOR THEORY,-,-,-,MULTI-DISCIPLINARY COURSE,MDC-110(M),IH,4,VALUE ADDED COURSE,VAC-140-A(M),-,9,-,-,-,-,-,-,-,-,MINOR THEORY,COMMI(D),ASK,-,MAJOR THEORY,COMMA(D),SD,54, VALUE ADDED COURSE,VAC-140-A(D),-,9,-,-,-,-,MULTI-DISCIPLINARY COURSE,MDC-110(D),IH,2,MAJOR THEORY,COMMA(A),ID,54
+MONDAY,-,ECOMA(M),SH,58,-,ECOMI(M),SH,58,-,MDC-111(M),-,30,-,VAC-140-B(M),-,27,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,VAC-140-B(D),-,27,-,-,-,-,-,MDC-111(D),-,32,-,-,-,-
+MONDAY,-,EDUMA(M),VVK,66,-,EDUMI(M),VVK,66,-,MDC-112(M),-,65,-,-,-,-,-,-,-,-,-,-,-,-,-,ECOMI(D),AA,2,-,ECOMA(D),AA,59,-,-,-,-,-,-,-,-,-,MDC-112(D),LRS,33,-,-,-,-
+MONDAY,-,ENGMA(M),-,38,-,ENGMI(M),-,38,-,MDC-113(M),TM,32,-,-,-,-,-,-,-,-,-,-,-,-,-,EDUMI(D),VVK,65,-,EDUMA(D),VVK,66,-,-,-,-,-,-,-,-,-,MDC-113(D),TM,4,-,-,-,-
+MONDAY,-,HISMA(M),MK,36,-,HISMI(M),HAH,36,-,MDC-114(M),CK/JLM,37,-,-,-,-,-,-,-,-,-,-,-,-,-,ENGMI(D),-,32,-,ENGMA(D),-,35,-,-,-,-,-,-,-,-,-,MDC-114(D),CK/JLM,6,-,-,-,-
+MONDAY,-,KHAMA(M),VRS,43,-,KHAMI(M),TL,43,-,MDC-115(M),ZL,3,-,-,-,-,-,-,-,-,-,-,-,-,-,HISMI(D),BSL,36,-,HISMA(D),EL,36,-,-,-,-,-,-,-,-,-,MDC-115(D),-,3,-,-,-,-
+MONDAY,-,PHIMA(M),LK,42,-,PHIMI(M),SM,42,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,KHAMI(D),TL,40,-,KHAMA(D),RW,43,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+MONDAY,-,POLMA(M),BW,32,-,POLMI(M),BW,32,-,MDC-117(M),-,57,-,-,-,-,-,-,-,-,-,-,-,-,-,PHIMI(D),AD,70,-,PHIMA(D),MS,70,-,-,-,-,-,-,-,-,-,MDC-117(D),-,1,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,MDC-118(M),-,36,-,-,-,-,-,-,-,-,-,-,-,-,-,POLMI(D),RK,26,-,POLMA(D),RK,32,-,-,-,-,-,-,-,-,-,MDC-118(D),-,19,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,MDC-119(M),-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,BBAMI(D),AAA,71,-,BBAMA(D),AAA,60,-,-,-,-,-,-,-,-,-,MDC-119(D),-,16,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MTHMI(D),WN,6,-,MTHMA(D),WN,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MINOR PRACTICALS,BCHMI(D),VMW/TC,LAB 1,MINOR PRACTICALS,BCHMI(D),VMW/TC,LAB 1,MINOR PRACTICALS,BCHMI(D),VMW/TC,LAB 1,MAJOR PRACTICALS,BCHMA(D),VMW/TC,LAB 1,MAJOR PRACTICALS,BCHMA(D),VMW/TC,LAB 1,MAJOR PRACTICALS,BCHMA(D),VMW/TC,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,BITMI(D),-,LAB 1,-,BITMI(D),-,LAB 1,-,BITMI(D),-,LAB 1,-,BITMA(D),-,LAB 1,-,BITMA(D),-,LAB 1,-,BITMA(D),-,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,BOTMI(D),WL/EN,LAB 1,-,BOTMI(D),WL/EN,LAB 1,-,BOTMI(D),WL/CSR,LAB 1,-,BOTMA(D),WL/EN,LAB 1,-,BOTMA(D),WL/EN,LAB 1,-,BOTMA(D),WL/CSR,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CHEMI(D),IK/MS,LAB 1,-,CHEMI(D),IK/MS,LAB 1,-,CHEMI(D),IK/MS,LAB 1,-,CHEMA(D),MC/SD,LAB 1,-,CHEMA(D),MC/SD,LAB 1,-,CHEMA(D),MC/SD,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CSCMI(D),AD,MCA 1,-,CSCMI(D),AD,MCA 1,-,CSCMI(D),AD,MCA 1,-,CSCMA(D),FJJ,MCA 1,-,CSCMA(D),FJJ,MCA 1,-,CSCMA(D),FJJ,MCA 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,FSCMI(D),WT,LAB 1,-,FSCMI(D),RN,LAB 1,-,FSCMI(D),EW,LAB 1,-,FSCMA(D),EW,LAB 1,-,FSCMA(D),WT,LAB 1,-,FSCMA(D),RN,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,GELMI(D),JW,LAB 1,-,GELMI(D),JW,LAB 1,-,GELMI(D),JW,LAB 1,-,GELMA(D),JW,LAB 1,-,GELMA(D),JW,LAB 1,-,GELMA(D),JW,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,PHYMI(D),"SC,DK",LAB 1,-,PHYMI(D),"SC,DK",LAB 1,-,PHYMI(D),"SC,DK",LAB 1,-,PHYMA(D),"SS,MK",LAB 1,-,PHYMA(D),"SS,MK",LAB 1,-,PHYMA(D),"SS,MK",LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,STAMI(D),SM,LAB 1,-,STAMI(D),SKD,LAB 1,-,STAMI(D),RH,LAB 1,-,STAMA(D),SM,LAB 1,-,STAMA(D),RH,LAB 1,-,STAMA(D),BS,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,ZOOMI(D),"FAL,BM,JNS",LAB 1,-,ZOOMI(D),"FAL,BM,JNS",LAB 1,-,ZOOMI(D),"FAL,BM,JNS",LAB 1,-,ZOOMA(D),"ADM,DL,KM",LAB 1,-,ZOOMA(D),"ADM,DL,KM",LAB 1,-,ZOOMA(D),"ADM,DL,KM",LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MUSMI(D),FK/HS/AS/MS/BK,LAB 1,-,MUSMI(D),FK/HS/AS/MS/BK,LAB 1,-,MUSMI(D),FK/HS/AS/MS/BK,LAB 1,-,MUSMA(D),FK/HS/AS/MS/BK,LAB 1,-,MUSMA(D),FK/HS/AS/MS/BK,LAB 1,-,MUSMA(D),FK/HS/AS/MS/BK,LAB 1,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,MVPMI(D),TL,58,-,MVPMI(D),TL,58,-,MVPMI(D),TL,58,-,MVPMA(D),FS,58,-,MVPMA(D),FS,58,-,MVPMA(D),FS,58,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,METMI(D),Fr. GN,64,-,METMI(D),FR GN,64,-,METMI(D),FR GN/CK,64,-,METMA(D),GN/CK,64,-,METMA(D),GN/CK,64,-,METMA(D),GN/CK,64,-,-,-,-,-,-,-,-
+MONDAY,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
