@@ -1,0 +1,1905 @@
+{
+    "tuesday": {
+        "7.00 - 7.45": [
+            {
+                "COURSE_NAME": "MAJOR THEORY",
+                "COURSE_CODE_SECTION_&_SHIFT": "COMMA(M)",
+                "FACULTY_INITIALS": "MM",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ECOMA(M)",
+                "FACULTY_INITIALS": "AN",
+                "HALL": 58
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "EDUMA(M)",
+                "FACULTY_INITIALS": "ILM",
+                "HALL": 66
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ENGMA(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 38
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "HISMA(M)",
+                "FACULTY_INITIALS": "HAH",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "KHAMA(M)",
+                "FACULTY_INITIALS": "BMK",
+                "HALL": 43
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHIMA(M)",
+                "FACULTY_INITIALS": "SM",
+                "HALL": 42
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "POLMA(M)",
+                "FACULTY_INITIALS": "NK",
+                "HALL": 32
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "7.45 - 8.30": [
+            {
+                "COURSE_NAME": "MINOR THEORY",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ECOMI(M)",
+                "FACULTY_INITIALS": "AN",
+                "HALL": 58
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "EDUMI(M)",
+                "FACULTY_INITIALS": "ILM",
+                "HALL": 66
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ENGMI(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 38
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "HISMI(M)",
+                "FACULTY_INITIALS": "MK",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "KHAMI(M)",
+                "FACULTY_INITIALS": "DB",
+                "HALL": 43
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHIMI(M)",
+                "FACULTY_INITIALS": "LK",
+                "HALL": 42
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "POLMI(M)",
+                "FACULTY_INITIALS": "NK",
+                "HALL": 32
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "8.30 - 9.20": [
+            {
+                "COURSE_NAME": "MULTI-DISCIPLINARY COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-110(M)",
+                "FACULTY_INITIALS": "IH",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-111(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 30
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-112(M)",
+                "FACULTY_INITIALS": "LRS",
+                "HALL": 65
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-113(M)",
+                "FACULTY_INITIALS": "DK",
+                "HALL": 32
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-114(M)",
+                "FACULTY_INITIALS": "CK/JLM",
+                "HALL": 37
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-115(M)",
+                "FACULTY_INITIALS": "ZL",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-117(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-118(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-119(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "9.20 - 10.10": [
+            {
+                "COURSE_NAME": "SKILL ENHANCEMENT COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-A(M)-(PR)",
+                "FACULTY_INITIALS": "IBN",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-A(M)",
+                "FACULTY_INITIALS": "CK",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-A(M)",
+                "FACULTY_INITIALS": "ED-VE",
+                "HALL": 65
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-A(M)",
+                "FACULTY_INITIALS": "TT",
+                "HALL": 33
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-A(M)",
+                "FACULTY_INITIALS": "FL-VE",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-B(M)-(PR)",
+                "FACULTY_INITIALS": "IBN",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-B(M)",
+                "FACULTY_INITIALS": "JLM",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-B(M)",
+                "FACULTY_INITIALS": "NL-VE",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-B(M)",
+                "FACULTY_INITIALS": "MP",
+                "HALL": 7
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-B(M)",
+                "FACULTY_INITIALS": "AN-VE",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "10.10 - 11.00": [
+            {
+                "COURSE_NAME": "SKILL ENHANCEMENT COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-A(M)-(PR)",
+                "FACULTY_INITIALS": "IBN",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-A(M)",
+                "FACULTY_INITIALS": "CK/JLM",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-A(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 65
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-A(M)",
+                "FACULTY_INITIALS": "TT",
+                "HALL": 33
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-A(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-B(M)-(PR)",
+                "FACULTY_INITIALS": "IBN",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-B(M)",
+                "FACULTY_INITIALS": "CK/JLM",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-B(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-B(M)",
+                "FACULTY_INITIALS": "MP",
+                "HALL": 7
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-B(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "11.00 - 11.50": [
+            {
+                "COURSE_NAME": "ABILITY ENHANCEMENT COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-A(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 9
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-B(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 65
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-C(M)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-123-A(M)",
+                "FACULTY_INITIALS": "JS",
+                "HALL": 21
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-124-A(M)",
+                "FACULTY_INITIALS": "VRS",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-124-B(M)",
+                "FACULTY_INITIALS": "SW",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-125-A(M)",
+                "FACULTY_INITIALS": "GZ",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-127-A(M)",
+                "FACULTY_INITIALS": "DK",
+                "HALL": 38
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "11.50 - 12.35": [
+            {
+                "COURSE_NAME": "MINOR THEORY",
+                "COURSE_CODE_SECTION_&_SHIFT": "COMMI(D)",
+                "FACULTY_INITIALS": "ASK",
+                "HALL": 56
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BBAMI(D)",
+                "FACULTY_INITIALS": "AAA",
+                "HALL": 71
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BCHMI(D)",
+                "FACULTY_INITIALS": "SN",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BITMI(D)",
+                "FACULTY_INITIALS": "AMS",
+                "HALL": 5
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BOTMI(D)",
+                "FACULTY_INITIALS": "CSR",
+                "HALL": 67
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "CHEMI(D)",
+                "FACULTY_INITIALS": "AS/SH",
+                "HALL": 8
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "CSCMI(D)",
+                "FACULTY_INITIALS": "AD",
+                "HALL": "MCA 1"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "FSCMI(D)",
+                "FACULTY_INITIALS": "WT",
+                "HALL": 104
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "GELMI(D)",
+                "FACULTY_INITIALS": "JW",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MTHMI(D)",
+                "FACULTY_INITIALS": "WK",
+                "HALL": 7
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHYMI(D)",
+                "FACULTY_INITIALS": "SS",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "STAMI(D)",
+                "FACULTY_INITIALS": "SKD",
+                "HALL": 61
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ZOOMI(D)",
+                "FACULTY_INITIALS": "BM",
+                "HALL": 60
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ECOMI(D)",
+                "FACULTY_INITIALS": "GM",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "EDUMI(D)",
+                "FACULTY_INITIALS": "ILM",
+                "HALL": 65
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ENGMI(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 32
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "HISMI(D)",
+                "FACULTY_INITIALS": "SK",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "KHAMI(D)",
+                "FACULTY_INITIALS": "RW",
+                "HALL": 40
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHIMI(D)",
+                "FACULTY_INITIALS": "MS",
+                "HALL": 70
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "POLMI(D)",
+                "FACULTY_INITIALS": "RD",
+                "HALL": 53
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MUSMI(D)",
+                "FACULTY_INITIALS": "BS",
+                "HALL": 42
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MVPMI(D)",
+                "FACULTY_INITIALS": "TL",
+                "HALL": 62
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "METMI(D)",
+                "FACULTY_INITIALS": "FGN/CK",
+                "HALL": 64
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "1.00 - 1.45": [
+            {
+                "COURSE_NAME": "MAJOR THEORY",
+                "COURSE_CODE_SECTION_&_SHIFT": "COMMA(D)",
+                "FACULTY_INITIALS": "SD",
+                "HALL": 54
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BBAMA(D)",
+                "FACULTY_INITIALS": "AAA",
+                "HALL": 60
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BCHMA(D)",
+                "FACULTY_INITIALS": "HGL",
+                "HALL": 10
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BITMA(D)",
+                "FACULTY_INITIALS": "AMS",
+                "HALL": 11
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "BOTMA(D)",
+                "FACULTY_INITIALS": "CSR",
+                "HALL": 67
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "CHEMA(D)",
+                "FACULTY_INITIALS": "FD/BK",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "CSCMA(D)",
+                "FACULTY_INITIALS": "FJJ",
+                "HALL": "MCA 1"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "FSCMA(D)",
+                "FACULTY_INITIALS": "EW",
+                "HALL": 104
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "GELMA(D)",
+                "FACULTY_INITIALS": "JW",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MTHMA(D)",
+                "FACULTY_INITIALS": "WK",
+                "HALL": 5
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHYMA(D)",
+                "FACULTY_INITIALS": "SS",
+                "HALL": 8
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "STAMA(D)",
+                "FACULTY_INITIALS": "BS",
+                "HALL": 61
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ZOOMA(D)",
+                "FACULTY_INITIALS": "ADM",
+                "HALL": 68
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ECOMA(D)",
+                "FACULTY_INITIALS": "GM",
+                "HALL": 71
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "EDUMA(D)",
+                "FACULTY_INITIALS": "ILM",
+                "HALL": 66
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "ENGMA(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 37
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "HISMA(D)",
+                "FACULTY_INITIALS": "BSL",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "KHAMA(D)",
+                "FACULTY_INITIALS": "TL",
+                "HALL": 40
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "PHIMA(D)",
+                "FACULTY_INITIALS": "GZ",
+                "HALL": 70
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "POLMA(D)",
+                "FACULTY_INITIALS": "RD",
+                "HALL": 59
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MUSMA(D)",
+                "FACULTY_INITIALS": "LP",
+                "HALL": 43
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MVPMA(D)",
+                "FACULTY_INITIALS": "FS",
+                "HALL": 58
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "METMA(D)",
+                "FACULTY_INITIALS": "FGN/CK",
+                "HALL": 64
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "1.45 - 2.30": [
+            {
+                "COURSE_NAME": "MULTI-DISCIPLINARY COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-110(D)",
+                "FACULTY_INITIALS": "IH",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-111(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 32
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-112(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 33
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-113(D)",
+                "FACULTY_INITIALS": "DK",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-114(D)",
+                "FACULTY_INITIALS": "CK/JLM",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-115(D)",
+                "FACULTY_INITIALS": "ZL",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-117(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 1
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-118(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "MDC-119(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 9
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "2.30 - 3.15": [
+            {
+                "COURSE_NAME": "SKILL ENHANCEMENT COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-A(D)",
+                "FACULTY_INITIALS": "SM",
+                "HALL": 19
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-A(D)",
+                "FACULTY_INITIALS": "JLM",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-A(D)",
+                "FACULTY_INITIALS": "ED-VE",
+                "HALL": 30
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-A(D)",
+                "FACULTY_INITIALS": "TT",
+                "HALL": 34
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-A(D)",
+                "FACULTY_INITIALS": "FL-VE",
+                "HALL": 3
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-130-B(D)",
+                "FACULTY_INITIALS": "SM",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-131-B(D)",
+                "FACULTY_INITIALS": "CK",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-132-B(D)",
+                "FACULTY_INITIALS": "NL-VE",
+                "HALL": 57
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-133-B(D)",
+                "FACULTY_INITIALS": "MP",
+                "HALL": 7
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "SEC-134-B(D)",
+                "FACULTY_INITIALS": "AN-VE",
+                "HALL": 4
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "3.15 - 4.00": [
+            {
+                "COURSE_NAME": "ABILITY ENHANCEMENT COURSE",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-A(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 9
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-B(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 7
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-120-C(D)",
+                "FACULTY_INITIALS": "-",
+                "HALL": 35
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-123-A(D)",
+                "FACULTY_INITIALS": "JS",
+                "HALL": 21
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-124-A(D)",
+                "FACULTY_INITIALS": "SW",
+                "HALL": 2
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-124-B(D)",
+                "FACULTY_INITIALS": "DB",
+                "HALL": 6
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-125-A(D)",
+                "FACULTY_INITIALS": "GZ",
+                "HALL": 36
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "AEC-127-A(D)",
+                "FACULTY_INITIALS": "DK",
+                "HALL": 38
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "4.00 - 4.45": [
+            {
+                "COURSE_NAME": "MAJOR THEORY",
+                "COURSE_CODE_SECTION_&_SHIFT": "COMMA(A)",
+                "FACULTY_INITIALS": "RLN",
+                "HALL": 54
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            },
+            {
+                "COURSE_NAME": "-",
+                "COURSE_CODE_SECTION_&_SHIFT": "-",
+                "FACULTY_INITIALS": "-",
+                "HALL": "-"
+            }
+        ],
+        "DAY": [
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            },
+            {
+                "DAY": "TUESDAY"
+            }
+        ]
+    }
+}
